@@ -10,7 +10,12 @@ public class Main {
     }
 
     public static void main(String[] args) {
-
+        System.out.println("Welcome to your new job");
+        announceDeveloperTeaTime();
+        System.out.println("QWrite code");
+        System.out.println("Review code");
+        announceDeveloperTeaTime();
+        System.out.println("Get promoted!");
     }
 
 }
